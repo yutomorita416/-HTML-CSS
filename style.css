@@ -57,7 +57,23 @@ nav {
 .main-visual {
   width: 100%;
   height: 650px;
-  background-color: aquamarine;
+  background-image: url(img2/mv.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.main-visual-title {
+  color: #fafafa;
+  font-size: 64px;
+  padding-top: 200px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.main-visual-text {
+  color: #fafafa;
+  font-size: 20px;
+  text-align: center;
 }
 
 .main {
